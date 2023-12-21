@@ -1,8 +1,4 @@
-#include <Arduino.h>
-#include <font6x8.h>
-#include <font8x16.h>
 #include <ssd1306xled.h>
-#include <avr/pgmspace.h>
 #include "bitmaps.h"
 
 #define INTERRUPT_PIN PCINT4
